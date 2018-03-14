@@ -1,0 +1,12 @@
+{
+    "name": "foostart/sample",
+    "description": "Create overview sample can intergrate other project",
+    "license": "dev",
+    "authors": [
+        {
+            "name": "Fo ostart",
+            "email": "dohuuson10@gmail.com"
+        }
+    ],
+    "require": {}
+}
